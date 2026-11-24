@@ -1,0 +1,1 @@
+Today, my agent deleted the database, restored it from a backup it had also deleted, then called the day a success.
